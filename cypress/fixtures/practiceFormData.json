@@ -1,0 +1,17 @@
+{
+    "firstName": "Rainers",
+    "lastName": "Smolenskis",
+    "email": "rainers.smolenskis@tests.lv",
+    "gender": "Male",
+    "phoneNumber": "21232425",
+    "birthMonth": "February",
+    "birthMonthValue": 1,
+    "birthYear": "1930",
+    "birthYearValue": 1930,
+    "subject": "Economics",
+    "hobby": "Music",
+    "fileLocation": "cypress/files/rainersdipper.png",
+    "currentAddress": "Sunset Street 22B",
+    "state": "NCR",
+    "city": "Delhi"
+}
